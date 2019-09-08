@@ -1,0 +1,3 @@
+﻿  bearHelper.cpp
+c:\users\jesuy\onedrive\documents\visual studio 2017\my projects\systems programming (cpp)\homework4\bearhelper.cpp(33): warning C4244: 'initializing': conversion from 'int' to 'char', possible loss of data
+  Homework4.vcxproj -> C:\Users\jesuy\OneDrive\Documents\Visual Studio 2017\My Projects\Systems Programming (CPP)\Debug\Homework4.exe

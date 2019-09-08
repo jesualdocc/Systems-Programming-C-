@@ -1,0 +1,16 @@
+﻿  BitMap.cpp
+c:\users\jesuy\onedrive\documents\my programming workspace\visual studio 2017\my projects\systems programming (cpp)\homework7\bitmap.cpp(77): warning C4018: '<': signed/unsigned mismatch
+c:\users\jesuy\onedrive\documents\my programming workspace\visual studio 2017\my projects\systems programming (cpp)\homework7\bitmap.cpp(88): warning C4018: '<': signed/unsigned mismatch
+c:\users\jesuy\onedrive\documents\my programming workspace\visual studio 2017\my projects\systems programming (cpp)\homework7\bitmap.cpp(91): warning C4018: '<': signed/unsigned mismatch
+c:\users\jesuy\onedrive\documents\my programming workspace\visual studio 2017\my projects\systems programming (cpp)\homework7\bitmap.cpp(120): warning C4018: '<': signed/unsigned mismatch
+c:\users\jesuy\onedrive\documents\my programming workspace\visual studio 2017\my projects\systems programming (cpp)\homework7\bitmap.cpp(133): warning C4018: '<': signed/unsigned mismatch
+c:\users\jesuy\onedrive\documents\my programming workspace\visual studio 2017\my projects\systems programming (cpp)\homework7\bitmap.cpp(161): warning C4018: '<': signed/unsigned mismatch
+c:\users\jesuy\onedrive\documents\my programming workspace\visual studio 2017\my projects\systems programming (cpp)\homework7\bitmap.cpp(185): warning C4018: '<': signed/unsigned mismatch
+c:\users\jesuy\onedrive\documents\my programming workspace\visual studio 2017\my projects\systems programming (cpp)\homework7\bitmap.cpp(224): warning C4189: 'sHeight': local variable is initialized but not referenced
+c:\users\jesuy\onedrive\documents\my programming workspace\visual studio 2017\my projects\systems programming (cpp)\homework7\bitmap.cpp(218): warning C4189: 'pixelsByThread': local variable is initialized but not referenced
+c:\users\jesuy\onedrive\documents\my programming workspace\visual studio 2017\my projects\systems programming (cpp)\homework7\bitmap.cpp(225): warning C4189: 'eHeight': local variable is initialized but not referenced
+c:\users\jesuy\onedrive\documents\my programming workspace\visual studio 2017\my projects\systems programming (cpp)\homework7\bitmap.cpp(223): warning C4189: 'eWidth': local variable is initialized but not referenced
+c:\users\jesuy\onedrive\documents\my programming workspace\visual studio 2017\my projects\systems programming (cpp)\homework7\bitmap.cpp(220): warning C4101: 'threads': unreferenced local variable
+c:\users\jesuy\onedrive\documents\my programming workspace\visual studio 2017\my projects\systems programming (cpp)\homework7\bitmap.cpp(222): warning C4189: 'sWidth': local variable is initialized but not referenced
+c:\users\jesuy\onedrive\documents\my programming workspace\visual studio 2017\my projects\systems programming (cpp)\homework7\bitmap.cpp(254): warning C4244: 'initializing': conversion from 'double' to 'uint8_t', possible loss of data
+  Homework7.vcxproj -> C:\Users\jesuy\OneDrive\Documents\My Programming WorkSpace\Visual Studio 2017\My Projects\Systems Programming (CPP)\Debug\Homework7.exe

@@ -1,0 +1,53 @@
+﻿  BitMap.cpp
+c:\users\jesuy\onedrive\documents\my programming workspace\visual studio 2017\my projects\systems programming (cpp)\homework8\bitmap.cpp(79): warning C4018: '<': signed/unsigned mismatch
+c:\users\jesuy\onedrive\documents\my programming workspace\visual studio 2017\my projects\systems programming (cpp)\homework8\bitmap.cpp(90): warning C4018: '<': signed/unsigned mismatch
+c:\users\jesuy\onedrive\documents\my programming workspace\visual studio 2017\my projects\systems programming (cpp)\homework8\bitmap.cpp(93): warning C4018: '<': signed/unsigned mismatch
+c:\users\jesuy\onedrive\documents\my programming workspace\visual studio 2017\my projects\systems programming (cpp)\homework8\bitmap.cpp(122): warning C4018: '<': signed/unsigned mismatch
+c:\users\jesuy\onedrive\documents\my programming workspace\visual studio 2017\my projects\systems programming (cpp)\homework8\bitmap.cpp(135): warning C4018: '<': signed/unsigned mismatch
+c:\users\jesuy\onedrive\documents\my programming workspace\visual studio 2017\my projects\systems programming (cpp)\homework8\bitmap.cpp(163): warning C4018: '<': signed/unsigned mismatch
+c:\users\jesuy\onedrive\documents\my programming workspace\visual studio 2017\my projects\systems programming (cpp)\homework8\bitmap.cpp(187): warning C4018: '<': signed/unsigned mismatch
+c:\users\jesuy\onedrive\documents\my programming workspace\visual studio 2017\my projects\systems programming (cpp)\homework8\bitmap.cpp(224): warning C4018: '<': signed/unsigned mismatch
+c:\users\jesuy\onedrive\documents\my programming workspace\visual studio 2017\my projects\systems programming (cpp)\homework8\bitmap.cpp(235): warning C4018: '>=': signed/unsigned mismatch
+c:\users\jesuy\onedrive\documents\my programming workspace\visual studio 2017\my projects\systems programming (cpp)\homework8\bitmap.cpp(263): warning C4018: '<': signed/unsigned mismatch
+c:\users\jesuy\onedrive\documents\my programming workspace\visual studio 2017\my projects\systems programming (cpp)\homework8\bitmap.cpp(312): warning C4244: 'initializing': conversion from 'double' to 'uint8_t', possible loss of data
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\thr\xthread(238): error C2672: 'std::invoke': no matching overloaded function found
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\thr\xthread(246): note: see reference to function template instantiation 'void std::_LaunchPad<_Target>::_Execute<0,1,2,3,4>(std::tuple<void (BitMap::* )(BitMap *,SharedQueue<int> *,int *) const,const BitMap *,BitMap *,SharedQueue<int> *,volatile int *> &,std::integer_sequence<unsigned int,0,1,2,3,4>)' being compiled
+          with
+          [
+              _Target=std::unique_ptr<std::tuple<void (BitMap::* )(BitMap *,SharedQueue<int> *,int *) const,const BitMap *,BitMap *,SharedQueue<int> *,volatile int *>,std::default_delete<std::tuple<void (BitMap::* )(BitMap *,SharedQueue<int> *,int *) const,const BitMap *,BitMap *,SharedQueue<int> *,volatile int *>>>
+          ]
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\thr\xthread(245): note: see reference to function template instantiation 'void std::_LaunchPad<_Target>::_Execute<0,1,2,3,4>(std::tuple<void (BitMap::* )(BitMap *,SharedQueue<int> *,int *) const,const BitMap *,BitMap *,SharedQueue<int> *,volatile int *> &,std::integer_sequence<unsigned int,0,1,2,3,4>)' being compiled
+          with
+          [
+              _Target=std::unique_ptr<std::tuple<void (BitMap::* )(BitMap *,SharedQueue<int> *,int *) const,const BitMap *,BitMap *,SharedQueue<int> *,volatile int *>,std::default_delete<std::tuple<void (BitMap::* )(BitMap *,SharedQueue<int> *,int *) const,const BitMap *,BitMap *,SharedQueue<int> *,volatile int *>>>
+          ]
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\thr\xthread(242): note: while compiling class template member function 'void std::_LaunchPad<_Target>::_Run(std::_LaunchPad<_Target> *) noexcept'
+          with
+          [
+              _Target=std::unique_ptr<std::tuple<void (BitMap::* )(BitMap *,SharedQueue<int> *,int *) const,const BitMap *,BitMap *,SharedQueue<int> *,volatile int *>,std::default_delete<std::tuple<void (BitMap::* )(BitMap *,SharedQueue<int> *,int *) const,const BitMap *,BitMap *,SharedQueue<int> *,volatile int *>>>
+          ]
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\thr\xthread(230): note: see reference to function template instantiation 'void std::_LaunchPad<_Target>::_Run(std::_LaunchPad<_Target> *) noexcept' being compiled
+          with
+          [
+              _Target=std::unique_ptr<std::tuple<void (BitMap::* )(BitMap *,SharedQueue<int> *,int *) const,const BitMap *,BitMap *,SharedQueue<int> *,volatile int *>,std::default_delete<std::tuple<void (BitMap::* )(BitMap *,SharedQueue<int> *,int *) const,const BitMap *,BitMap *,SharedQueue<int> *,volatile int *>>>
+          ]
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\thr\xthread(257): note: see reference to class template instantiation 'std::_LaunchPad<_Target>' being compiled
+          with
+          [
+              _Target=std::unique_ptr<std::tuple<void (BitMap::* )(BitMap *,SharedQueue<int> *,int *) const,const BitMap *,BitMap *,SharedQueue<int> *,volatile int *>,std::default_delete<std::tuple<void (BitMap::* )(BitMap *,SharedQueue<int> *,int *) const,const BitMap *,BitMap *,SharedQueue<int> *,volatile int *>>>
+          ]
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\thread(46): note: see reference to function template instantiation 'void std::_Launch<std::unique_ptr<std::tuple<void (BitMap::* )(BitMap *,SharedQueue<int> *,int *) const,const BitMap *,BitMap *,SharedQueue<int> *,volatile int *>,std::default_delete<_Ty>>>(_Thrd_t *,_Target &&)' being compiled
+          with
+          [
+              _Ty=std::tuple<void (BitMap::* )(BitMap *,SharedQueue<int> *,int *) const,const BitMap *,BitMap *,SharedQueue<int> *,volatile int *>,
+              _Target=std::unique_ptr<std::tuple<void (BitMap::* )(BitMap *,SharedQueue<int> *,int *) const,const BitMap *,BitMap *,SharedQueue<int> *,volatile int *>,std::default_delete<std::tuple<void (BitMap::* )(BitMap *,SharedQueue<int> *,int *) const,const BitMap *,BitMap *,SharedQueue<int> *,volatile int *>>>
+          ]
+  c:\users\jesuy\onedrive\documents\my programming workspace\visual studio 2017\my projects\systems programming (cpp)\homework8\bitmap.cpp(231): note: see reference to function template instantiation 'std::thread::thread<void(BitMap::* )(BitMap *,SharedQueue<int> *,int *) const,const BitMap*,BitMap*&,SharedQueue<int>*&,volatile int*&,void>(_Fn &&,const BitMap *&&,BitMap *&,SharedQueue<int> *&,volatile int *&)' being compiled
+          with
+          [
+              _Fn=void (BitMap::* )(BitMap *,SharedQueue<int> *,int *) const
+          ]
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\thr\xthread(237): error C2893: Failed to specialize function template 'unknown-type std::invoke(_Callable &&,_Types &&...) noexcept(<expr>)'
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\thr\xthread(237): note: With the following template arguments:
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\thr\xthread(237): note: '_Callable=void (BitMap::* )(BitMap *,SharedQueue<int> *,int *) const'
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\thr\xthread(237): note: '_Types={const BitMap *, BitMap *, SharedQueue<int> *, volatile int *}'
