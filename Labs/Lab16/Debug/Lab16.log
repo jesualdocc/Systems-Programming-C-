@@ -1,0 +1,8 @@
+﻿  Banana.cpp
+c:\users\jesuy\onedrive\documents\my programming workspace\visual studio 2017\my projects\systems programming (cpp)\lab16\banana.cpp(5): warning C4305: 'argument': truncation from 'double' to 'float'
+  main.cpp
+c:\users\jesuy\onedrive\documents\my programming workspace\visual studio 2017\my projects\systems programming (cpp)\lab16\main.cpp(14): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\jesuy\onedrive\documents\my programming workspace\visual studio 2017\my projects\systems programming (cpp)\lab16\main.cpp(11): warning C4100: 'argv': unreferenced formal parameter
+c:\users\jesuy\onedrive\documents\my programming workspace\visual studio 2017\my projects\systems programming (cpp)\lab16\main.cpp(11): warning C4100: 'argc': unreferenced formal parameter
+  Generating Code...
+  Lab16.vcxproj -> C:\Users\jesuy\OneDrive\Documents\My Programming WorkSpace\Visual Studio 2017\My Projects\Systems Programming (CPP)\Debug\Lab16.exe

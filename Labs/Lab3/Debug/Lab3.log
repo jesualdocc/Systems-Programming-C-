@@ -1,0 +1,7 @@
+﻿  main.cpp
+c:\users\jesuy\onedrive\documents\visual studio 2017\my projects\systems programming (cpp)\lab3\main.cpp(89): warning C4389: '==': signed/unsigned mismatch
+c:\users\jesuy\onedrive\documents\visual studio 2017\my projects\systems programming (cpp)\lab3\main.cpp(90): warning C4389: '==': signed/unsigned mismatch
+c:\users\jesuy\onedrive\documents\visual studio 2017\my projects\systems programming (cpp)\lab3\main.cpp(91): warning C4389: '==': signed/unsigned mismatch
+c:\users\jesuy\onedrive\documents\visual studio 2017\my projects\systems programming (cpp)\lab3\main.cpp(97): warning C4100: 'argv': unreferenced formal parameter
+c:\users\jesuy\onedrive\documents\visual studio 2017\my projects\systems programming (cpp)\lab3\main.cpp(97): warning C4100: 'argc': unreferenced formal parameter
+  Lab3.vcxproj -> C:\Users\jesuy\OneDrive\Documents\Visual Studio 2017\My Projects\Systems Programming (CPP)\Debug\Lab3.exe

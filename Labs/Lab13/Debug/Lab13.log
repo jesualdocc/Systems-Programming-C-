@@ -1,0 +1,4 @@
+﻿  main.cpp
+c:\users\jesuy\onedrive\documents\my programming workspace\visual studio 2017\my projects\systems programming (cpp)\lab13\main.cpp(148): warning C4100: 'argv': unreferenced formal parameter
+c:\users\jesuy\onedrive\documents\my programming workspace\visual studio 2017\my projects\systems programming (cpp)\lab13\main.cpp(148): warning C4100: 'argc': unreferenced formal parameter
+  Lab13.vcxproj -> C:\Users\jesuy\OneDrive\Documents\My Programming WorkSpace\Visual Studio 2017\My Projects\Systems Programming (CPP)\Debug\Lab13.exe

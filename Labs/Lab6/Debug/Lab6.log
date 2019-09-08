@@ -1,0 +1,8 @@
+﻿  PackedArray.cpp
+c:\users\jesuy\onedrive\documents\visual studio 2017\my projects\systems programming (cpp)\lab6\packedarray.cpp(24): warning C4018: '<': signed/unsigned mismatch
+c:\users\jesuy\onedrive\documents\visual studio 2017\my projects\systems programming (cpp)\lab6\packedarray.cpp(37): warning C4018: '<': signed/unsigned mismatch
+c:\users\jesuy\onedrive\documents\visual studio 2017\my projects\systems programming (cpp)\lab6\packedarray.cpp(48): warning C4018: '>': signed/unsigned mismatch
+c:\users\jesuy\onedrive\documents\visual studio 2017\my projects\systems programming (cpp)\lab6\packedarray.cpp(55): warning C4244: 'return': conversion from 'uint64_t' to 'int', possible loss of data
+c:\users\jesuy\onedrive\documents\visual studio 2017\my projects\systems programming (cpp)\lab6\packedarray.cpp(63): warning C4018: '>': signed/unsigned mismatch
+c:\users\jesuy\onedrive\documents\visual studio 2017\my projects\systems programming (cpp)\lab6\packedarray.cpp(77): warning C4018: '<': signed/unsigned mismatch
+  Lab6.vcxproj -> C:\Users\jesuy\OneDrive\Documents\Visual Studio 2017\My Projects\Systems Programming (CPP)\Debug\Lab6.exe
